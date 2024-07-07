@@ -1,6 +1,7 @@
 .body{
  background-color: rgb(31, 31, 31);
  color: aliceblue;
+ 
 }
 
 h1{
@@ -61,5 +62,9 @@ h3,h4,h5,h6 {
 }
 
 .figure {
+    text-align: center;
+}
+
+.video{
     text-align: center;
 }
